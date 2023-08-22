@@ -30,25 +30,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://github.com/Vilmont242/osTicket-Ticket-Lifecycle-Examples/assets/141773682/a2745bd8-c194-497c-88a8-828b71624746)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this phase, we dive into the process of ticket intake and logging. Explaining also how users submit their support requests, and how the osTicket system captures and records these requests as tickets. This step sets the stage for the entire lifecycle.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://github.com/Vilmont242/osTicket-Ticket-Lifecycle-Examples/assets/141773682/5b19d1a9-c0f3-4ada-b0ec-112337364e42)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Tickets are categorized and assigned to the right support agents based on urgency and complexity. Triage ensures efficient handling.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://github.com/Vilmont242/osTicket-Ticket-Lifecycle-Examples/assets/141773682/f824a728-9c72-40a5-abd0-d289b5f5acaa)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ diagnose and resolve the issues reported in the tickets. osTicket tracks actions taken for reference.
 </p>
 <br /># osTicket-Ticket-Lifecycle-Examples
+
+last step :Resolved tickets are closed, user feedback is collected, and ticket history is archived. The lifecycle concludes with valuable insights gained.
